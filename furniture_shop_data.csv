@@ -1,0 +1,16 @@
+product_id,product_name,category,primary_material,production_cost_gbp,selling_price_gbp,lead_time_days,stock_quantity,status
+FNS-101,Oak Dining Table,Dining Room,Oak Wood,350.0,750.0,10,5,In Stock
+FNS-102,Walnut Bookshelf,Storage,Walnut,220.0,500.0,7,8,In Stock
+FNS-103,Leather Accent Chair,Living Room,Genuine Leather,280.0,620.0,5,3,Low Stock
+FNS-104,Teak Coffee Table,Living Room,Teak,120.0,290.0,4,12,In Stock
+FNS-105,Pine Wardrobe,Bedroom,Pine Wood,400.0,850.0,14,2,Low Stock
+FNS-106,Velvet 3-Seater Sofa,Living Room,Velvet & Birch,550.0,1200.0,12,0,Made to Order
+FNS-107,Ergonomic Standing Desk,Office,Oak & Steel,210.0,480.0,5,15,In Stock
+FNS-108,Mahogany Credenza,Storage,Mahogany,480.0,1100.0,15,1,Low Stock
+FNS-109,Birch King Bed Frame,Bedroom,Birch Wood,320.0,720.0,8,6,In Stock
+FNS-110,Cedar Blanket Chest,Storage,Cedar Wood,150.0,340.0,6,4,In Stock
+FNS-111,Marble Side Table,Living Room,Marble & Steel,95.0,220.0,3,10,In Stock
+FNS-112,Rattan Lounge Chair,Living Room,Rattan & Ash,140.0,310.0,7,0,Made to Order
+FNS-113,Maple Kitchen Island,Dining Room,Maple Wood,500.0,1150.0,18,2,Low Stock
+FNS-114,Ash Entryway Bench,Storage,Ash Wood,110.0,260.0,4,9,In Stock
+FNS-115,Executive Leather Office Chair,Office,Genuine Leather,260.0,580.0,6,7,In Stock
